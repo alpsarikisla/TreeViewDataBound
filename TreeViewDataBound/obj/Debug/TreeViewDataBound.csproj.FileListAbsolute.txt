@@ -1,0 +1,10 @@
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\bin\Debug\TreeViewDataBound.exe.config
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\bin\Debug\TreeViewDataBound.exe
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\bin\Debug\TreeViewDataBound.pdb
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.csprojAssemblyReference.cache
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.KategoriIslemleri.resources
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.Properties.Resources.resources
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.csproj.GenerateResource.cache
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.exe
+C:\Users\Alp\source\repos\TreeViewDataBound\TreeViewDataBound\obj\Debug\TreeViewDataBound.pdb
